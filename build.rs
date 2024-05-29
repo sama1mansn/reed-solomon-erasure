@@ -6,7 +6,7 @@ use std::path::Path;
 #[cfg(feature = "simd-accel")]
 extern crate cc;
 
-const FIELD_SIZE: usize = 256;
+const FIELD_SIZE: usize = 749;
 
 const GENERATING_POLYNOMIAL: usize = 29;
 
